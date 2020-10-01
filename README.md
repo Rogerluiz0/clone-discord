@@ -8,7 +8,7 @@
 
 <div align="center">
   <h2 align="center">Desktop</h2>
-  <img src=".github/screenshot" alt="Exemplo da interface no desktop" style="width: 100%;">
+  <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
 ## :gear: Requisítos
