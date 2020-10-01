@@ -15,6 +15,7 @@
 
 - [x] [Node.js](https://nodejs.org/en/)
 - [x] [React.js](https://pt-br.reactjs.org/)
+- [x] [Styled Components](https://styled-components.com/)
 - [x] [TypeScript](https://www.typescriptlang.org/)
 
 ## :computer: Projeto
@@ -23,7 +24,7 @@ Clone da interface do discord para fins acadêmicos.
 
 ## :bookmark: Layout
 
-Você pode acessar o layout clicando [aqui](https://roger-clone-discord.netlify.app/)
+Você pode visualizar o layout clicando [aqui](https://roger-clone-discord.netlify.app/)
 
 ## :arrow_down: Instalação
 
