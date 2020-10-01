@@ -1,6 +1,4 @@
-<h1 align="center">
- UI clone - discord
-</h1>
+<h1 align="center">UI clone ( parcial ) - discord</h1>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
