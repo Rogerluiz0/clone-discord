@@ -4,6 +4,13 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
 </p>
 
+<h1 align="center">:camera_flash: Screenshot</h1>
+
+<div align="center">
+  <h2 align="center">Desktop</h2>
+  <img src=".github/screenshot" alt="Exemplo da interface no desktop" style="width: 100%;">
+</div>
+
 ## :gear: Requisítos
 
 - [X] [Node.js](https://nodejs.org/en/) ( Obrigatório )
