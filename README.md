@@ -30,6 +30,10 @@ Clone da interface do discord para fins acadêmicos.
 
 Você pode visualizar o layout clicando [aqui](https://roger-clone-discord.netlify.app/)
 
+## :bookmark_tabs: Ideias de implementação
+
+- [ ] Responsividade para mobile.
+
 ## :arrow_down: Instalação
 
 - `git clone https://github.com/Rogerluiz0/clone-discord.git`;
