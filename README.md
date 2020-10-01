@@ -7,7 +7,6 @@
 <h1 align="center">:camera_flash: Screenshot</h1>
 
 <div align="center">
-  <h2 align="center">Desktop</h2>
   <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
