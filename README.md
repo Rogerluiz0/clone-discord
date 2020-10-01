@@ -14,9 +14,8 @@
 ## :rocket: Tecnologias
 
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] React.js
-- [x] Styled Components
-- [x] TypeScript
+- [x] [React.js](https://pt-br.reactjs.org/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
 
 ## :computer: Projeto
 
@@ -24,14 +23,14 @@ Clone da interface do discord para fins acadêmicos.
 
 ## :bookmark: Layout
 
-Você pode acessar o layout clicando [aqui]()
+Você pode acessar o layout clicando [aqui](https://roger-clone-discord.netlify.app/)
 
 ## :arrow_down: Instalação
 
 - `git clone https://github.com/Rogerluiz0/clone-discord.git`;
 - `cd clone-discord`;
 - `npm install`;
-- `npm run dev`.
+- `npm start`.
 
 ## :thinking: Como contribuir
 
