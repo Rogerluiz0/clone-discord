@@ -36,7 +36,7 @@ Você pode visualizar o layout clicando [aqui](https://roger-clone-discord.netli
 
 ## :arrow_down: Instalação
 
-- `git clone https://github.com/Rogerluiz0/clone-discord.git`;
+- `git clone https://github.com/roger3g/clone-discord.git`;
 - `cd clone-discord`;
 - `npm install`;
 - `npm start`.
