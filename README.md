@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=FF0000&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=297be5&labelColor==242526" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=f9a839&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=f9a839&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=f9a839&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=f9a839&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=f9a839&labelColor==393d42" style="display: inline;">
 </p>
 
 <h1 align="center">:camera_flash: Screenshot</h1>
