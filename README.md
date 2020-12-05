@@ -26,8 +26,8 @@
 ## 🛠 Technology
 
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] [Vuejs](https://nodejs.org/en/)
-- [x] [Sass](https://nodejs.org/en/)
+- [x] [Vuejs](https://vuejs.org/)
+- [x] [Sass](https://sass-lang.com/)
 
 ## 💻 Project
 
@@ -35,7 +35,7 @@ I'm working on this discord ui clone to improve my knowledge of **Vuejs** and **
 
 ## 🔖 Layout
 
-You can view the layout of this project by clicking [here]()
+You can view the layout of this project by clicking [here](https://discord-clone-two.vercel.app/)
 
 ## ⬆ Updates
 
