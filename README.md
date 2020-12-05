@@ -1,7 +1,9 @@
-<h1 align="center">UI clone ( parcial ) - discord</h1>
+<h1 align="center">
+  <img src=".github/" width="300" />
+</h1>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=5568f9&labelColor=111116">
+  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=297be5&labelColor==242526" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=297be5&labelColor==242526" style="display: inline;">
 </p>
 
 <h1 align="center">:camera_flash: Screenshot</h1>
@@ -10,46 +12,72 @@
   <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
-## :gear: Requisítos
+## 📌 Table of Contents
 
-- [X] [Node.js](https://nodejs.org/en/) ( Obrigatório )
-- [X] [GIT](https://git-scm.com/) ( Opcional )
+- [Technology](#-technology)
+- [Project](#-project)
+- [Layout](#-layout)
+- [Updates](#-updates)
+- [Implementation ideas](#-implementation-ideas)
+- [Installation](#-installation)
+- [How to contribute](#-how-to-contribute)
+- [License](#-license)
 
-## :rocket: Tecnologias
+## 🛠 Technology
 
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] [React.js](https://pt-br.reactjs.org/)
-- [x] [Styled Components](https://styled-components.com/)
-- [x] [TypeScript](https://www.typescriptlang.org/)
+- [x] [Vuejs](https://nodejs.org/en/)
+- [x] [Sass](https://nodejs.org/en/)
 
-## :computer: Projeto
+## 💻 Project
 
-Clone da interface do discord para fins acadêmicos.
+I'm working on this discord ui clone to improve my knowledge of **Vuejs** and **Sass**.
 
-## :bookmark: Layout
+## 🔖 Layout
 
-Você pode visualizar o layout clicando [aqui](https://roger-clone-discord.netlify.app/)
+You can view the layout of this project by clicking [here]()
 
-## :bookmark_tabs: Ideias de implementação
+## ⬆ Updates
 
-- [ ] Responsividade para mobile.
+This project is constantly evolving, I am always testing new features on it.
 
-## :arrow_down: Instalação
+## 💡 Implementation ideas
 
-- `git clone https://github.com/roger3g/clone-discord.git`;
-- `cd clone-discord`;
-- `npm install`;
-- `npm start`.
+- [ ] Refactoring
+- [ ] Improve responsiveness
 
-## :thinking: Como contribuir
+## ⬇ Installation
 
-- Faça um fork desse repositório;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
+```bash
+# Clone this repository
+$ git clone https://github.com/roger3g/discord-clone.git
 
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+# Access the project folder in the cmd/terminal
+$ cd discord-clone
 
-## :memo: Licença
+# Install the dependencies
+$ npm install
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+# Run the application in development mode
+$ npm run serve
+
+# Go to http://localhost:8080
+```
+
+Requirements to run **locally**:
+
+- [ ] [Node.js](https://nodejs.org/en/) ( Required )
+- [ ] [GIT](https://git-scm.com/) ( Optional )
+
+## 🤔 How to contribute
+
+1. Fork this repository;
+2. Create a branch with your feature: **`git checkout -b my-feature`**;
+3. Commit your changes: **`git commit -m 'feat: My new feature'`**;
+4. Push to your branch: **`git push origin my-feature`**.
+
+After the merge of your pull request is done, you can delete your branch.
+
+## 📝 License
+
+This project is under the MIT license. See the archive [LICENSE](LICENSE.md) for more details.

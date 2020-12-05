@@ -1,0 +1,8 @@
+.mention {
+  color: var(--link);
+  cursor: pointer;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
