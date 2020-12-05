@@ -9,7 +9,7 @@
 <h1 align="center">:camera_flash: Screenshot</h1>
 
 <div align="center">
-  <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
+  <img src=".github/print.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
 ## 📌 Table of Contents
