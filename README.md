@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=3&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor==393d42" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor==393d42" style="display: inline;">
 </p>
 
 <h1 align="center">:camera_flash: Screenshot</h1>
@@ -25,7 +25,6 @@
 
 ## 🛠 Technology
 
-- [x] [Node.js](https://nodejs.org/en/)
 - [x] [Vuejs](https://vuejs.org/)
 - [x] [Sass](https://sass-lang.com/)
 
