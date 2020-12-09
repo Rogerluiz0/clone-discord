@@ -29,6 +29,7 @@
 ## 💻 Project
 
 I'm working on this discord ui clone to improve my knowledge of **Vuejs** and **Sass**.
+I'm working on this discord clone to improve my knowledge of **Vuejs** and **Sass** and my skills as a **Front-end developer**.
 
 ## 🔖 Layout
 
@@ -42,8 +43,12 @@ This project is constantly evolving, I am always testing new features on it.
 
 - [ ] Refactoring
 - [ ] Improve responsiveness
+- [ ] Add new discord features
+- [ ] Add more loyalty
 
 ## ⬇ Installation
+
+You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/). Then, you can run the scripts below:
 
 ```bash
 # Clone this repository
@@ -60,11 +65,6 @@ $ npm run serve
 
 # Go to http://localhost:8080
 ```
-
-Requirements to run **locally**:
-
-- [ ] [Node.js](https://nodejs.org/en/) ( Required )
-- [ ] [GIT](https://git-scm.com/) ( Optional )
 
 ## 🤔 How to contribute
 
