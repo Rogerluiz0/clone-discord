@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor==393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor==393d42" style="display: inline;">
 </p>
 
-<h1 align="center">:camera_flash: Screenshot</h1>
-
 <div align="center">
   <img src=".github/print.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
