@@ -48,7 +48,7 @@ This project is constantly evolving, I am always testing new features on it.
 
 ## ⬇ Installation
 
-You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/). Then, you can run the scripts below:
+You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/) installed on your machine. Then, you can run the scripts below:
 
 ```bash
 # Clone this repository
