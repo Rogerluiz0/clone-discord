@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <img src=".github/print.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
+  <img src=".github/screenshot.svg" alt="Exemplo da interface no desktop" style="width: 100%;">
 </div>
 
 ## 🛠 Technology
