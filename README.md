@@ -3,7 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=languages&message=2&color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/github/stars/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/github/issues/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/github/forks/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/github/last-commit/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> <img src="https://img.shields.io/github/repo-size/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;">
+  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/static/v1?label=languages&message=4&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/stars/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/issues/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/forks/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/last-commit/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/repo-size/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;">
 </p>
 
 <div align="center">
@@ -21,7 +30,7 @@ I'm working on this discord clone to improve my knowledge of **Vuejs** and **Sas
 
 ## 🔖 Layout
 
-You can view the layout of this project by clicking [here](https://discord-clone-two.vercel.app/)
+You can view the layout of this project by clicking [here](https://discord-clone-two.vercel.app/).
 
 ## ⬆ Updates
 
