@@ -1,5 +1,5 @@
 <template>
-  <div id="container-main">
+  <div id="container">
     <ServerList/>
     <ServerName/>
     <ChannelList/>
@@ -11,7 +11,6 @@
 </template>
 
 <script>
-
   import ServerList from './components/ServerList/ServerList.vue'
   import ServerName from './components/ServerName/ServerName.vue'
   import ChannelList from './components/ChannelList/ChannelList.vue'
@@ -22,7 +21,6 @@
 
   export default {
     name: 'App',
-
     components: {
       ServerList,
       ServerName,
@@ -35,4 +33,15 @@
   }
 </script>
 
-<style src="./styles/app.scss" lang="scss" scoped></style>
+<style lang="scss">
+  #container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 71px 240px auto 240px;
+    grid-template-rows: 46px auto 52px;
+    grid-template-areas:
+    "ServerList ServerName ChannelInfo ChannelInfo"
+    "ServerList ChannelList ChannelData UserList"
+    "ServerList UserInfo ChannelData UserList";
+  }
+</style>

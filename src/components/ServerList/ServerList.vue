@@ -1,28 +1,48 @@
 <template>
-  <div class="container-serverList">
+  <div class="ServerList">
     <ServerButton isHome/>
     <hr id="separator">
     <ServerButton hasNotification :mentions="32"/>
-    <ServerButton/>
-    <ServerButton hasNotification :mentions="9"/>
-    <ServerButton hasNotification :mentions="56"/>
-    <ServerButton/>
     <ServerButton hasNotification v-for="server in 2" :key="server.id"/>
-    <ServerButton v-for="server in 3" :key="server.id"/>
-    <ServerButton hasNotification :mentions="43"/>
     <ServerButton/>
-    <ServerButton hasNotification :mentions="8"/>
   </div>
 </template>
 
 <script>
-  import ServerButton from './ServerButton/ServerButton.vue'
-
+  import ServerButton from './ServerButton.vue'
   export default {
+    name: 'ServerList',
+
     components: {
       ServerButton
     }
   }
 </script>
 
-<style src="./style.scss" lang="scss" scoped></style>
+<style lang="scss" scoped>
+  .ServerList {
+    grid-area: ServerList;
+
+    background-color: var(--tertiary);
+    padding: 11px 0;
+    max-height: 100vh;
+
+    overflow-y: scroll;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    hr {
+      width: 32px;
+      height: 2px;
+      border-bottom: 2px solid;
+      color: var(--quaternary);
+      margin-bottom: 8px;
+    }
+  }
+</style>
