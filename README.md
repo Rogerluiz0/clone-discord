@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=author&message=roger3g&color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/static/v1?label=author&message=abantes&color=6e86d6&labelColor=393d42" style="display: inline;"> 
   <img src="https://img.shields.io/static/v1?label=languages&message=4&color=6e86d6&labelColor=393d42" style="display: inline;"> 
   <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=6e86d6&labelColor=393d42" style="display: inline;"> 
   <img src="https://img.shields.io/static/v1?label=version&message=1.0.0&color=6e86d6&labelColor=393d42" style="display: inline;"> 
   <img src="https://img.shields.io/static/v1?label=platform&message=web&color=6e86d6&labelColor=393d42" style="display: inline;"> 
-  <img src="https://img.shields.io/github/stars/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
-  <img src="https://img.shields.io/github/issues/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
-  <img src="https://img.shields.io/github/forks/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
-  <img src="https://img.shields.io/github/last-commit/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
-  <img src="https://img.shields.io/github/repo-size/roger3g/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;">
+  <img src="https://img.shields.io/github/stars/abantes/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/issues/abantes/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/forks/abantes/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/last-commit/abantes/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;"> 
+  <img src="https://img.shields.io/github/repo-size/abantes/discord-clone?color=6e86d6&labelColor=393d42" style="display: inline;">
 </p>
 
 <div align="center">
@@ -55,7 +55,7 @@ You will need [Nodejs](https://nodejs.org/en/) and [git](https://git-scm.com/) i
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/roger3g/discord-clone.git
+$ git clone https://github.com/abantes/discord-clone.git
 
 # Access the project folder in the cmd/terminal
 $ cd discord-clone
